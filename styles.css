@@ -596,7 +596,7 @@ body.light-theme{
 }
 
 .button:hover{
-    background-color: var(--first-color-alt);
+    background-color: var(--first-color);
     color: var(--body-color);
 }
 
